@@ -1,0 +1,33 @@
+Use Cases
+
+Based on the system requirements, here are the use cases for the Population Information System:
+
+Report Generation
+
+View Countries by Population: The user can view lists of countries, organized from most to least populous, with options to filter by world, continent, or region.
+
+View Cities by Population: The user can view lists of cities, organized from most to least populous, with options to filter by world, continent, region, country, or district.
+
+View Capital Cities by Population: The user can view lists of capital cities, organized from most to least populous, with options to filter by world, continent, or region.
+
+View Top N Populated Entities: The user can view the top N most populous countries, cities, or capital cities, where N is a user-defined number, with options to filter by world, continent, region, country, or district.
+
+View Population Breakdown: The user can view the total population and percentage of the total population for a selected continent, region, country, or city, including breakdowns of urban and rural populations.
+
+View Language Statistics: The user can view the number of speakers for Chinese, English, Hindi, Spanish, and Arabic, sorted from most to least speakers, including the percentage of the world population for each language.
+
+Data Access
+
+View Population: The user can view the population of the world, a continent, a region, a country, a district, or a city.
+
+View Urban/Rural Population: The user can view the population of people living in cities and the population of people not living in cities, for a selected continent, region, or country.
+
+View Reports with Specific Columns:
+
+View Country Report: The user can view a report with the following columns: Code, Name, Continent, Region, Population, and Capital.
+
+View City Report: The user can view a city report with the following columns: Name, Country, District, and Population.
+
+View Capital City Report: The user can view a capital city report with the following columns: Name, Country, and Population.
+
+View Population Report: The user can view population reports, including the name of the continent/region/country, total population, urban population (including percentage), and rural population (including percentage).
